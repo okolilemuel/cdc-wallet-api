@@ -1,0 +1,11 @@
+node_modules
+jspm_packages
+.serverless
+.idea/
+.DS_Store
+.env
+.env.production-v0
+.build/
+iam-policies/
+test-events/
+.env.production-v0
